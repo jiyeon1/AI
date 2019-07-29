@@ -1,2 +1,2 @@
-# machine_learning_0
-Introduction to Machine Learning
+# machine_learning
+Introduction to Machine Learning && python
