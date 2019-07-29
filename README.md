@@ -3,9 +3,7 @@ Introduction to Machine Learning && python
 
 
 
-$ cd ssml  
-  
-$ conda activate ssml
-
-$ jupyter notebook  
+$ cd ssml    
+$ conda activate ssml   
+$ jupyter notebook    
 
