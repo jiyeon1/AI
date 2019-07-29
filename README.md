@@ -1,8 +1,11 @@
 # machine_learning
 Introduction to Machine Learning && python
 
-<m>
+<r>
 $ cd ssml  
+  
 $ conda activate ssml  
+
 $ jupyter notebook  
-</m>
+
+</r>
