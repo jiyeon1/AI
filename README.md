@@ -1,6 +1,4 @@
 # machine_learning
-Introduction to Machine Learning && python
-
 
 <pre>
 $ cd ssml    
