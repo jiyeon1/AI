@@ -1,7 +1,15 @@
-# machine_learning
+# 그래프 신경망을 이용한 시계열 데이터 예측 기법 연구
+
+#### 2021-1 개별연구  
+
 
 <pre>
-$ cd ssml    
-$ conda activate ssml   
-$ jupyter notebook    
+관계나 상호작용을 나타내는 복잡한 데이터를 분석하는 데에 많이 쓰이는 그래프 (graph) 구조에 대해 이해하고,   
+이러한 그래프 데이터를 직접 분석하고 표현하기 위해 최근 많은 관심을 받는    
+그래프 신경망 (graph neural networks)를 이용한 시계열 데이터 예측 기법을 연구한다.  
 </pre>
+
+
+### Study Notion Link
+
+https://www.notion.so/54665e30ed45483da7bb67b87800e5fd 
